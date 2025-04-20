@@ -1,3 +1,3 @@
 # MrazotnajaStudijaWebSite
 Here are articles, updates, etc.<br/>
-<a href ="/articles/main.html">About us</a>
+<a href = "https://mrazotnajastudija.github.io/MrazotnajaStudijaWebSite/articles/main.html">About us</a>
